@@ -46,14 +46,10 @@ cd chungaalert
 
 `main` is protected — no direct pushes. All work happens on a personal branch and merges via Pull Request with at least one reviewer's approval.
 
-**Branch naming convention:** `<your-name>/<short-feature-description>`
+**Branch naming convention:** `<your-name>/<role>`
 
 Examples:
-- `crystal/data-ingestion`
-- `donell/alert-signing`
-- `gloria/sms-integration`
-- `emmanuel/dashboard-ui`
-- `andrew/test-plans`
+- `crystal/ProjectManagement`
 
 Keep the description short, lowercase, and hyphenated. Open a new branch per feature/task rather than reusing one long-lived personal branch.
 
